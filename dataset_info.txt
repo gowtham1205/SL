@@ -1,0 +1,17 @@
+This dataset is about the sales prediction. This dataset contains information about the customers personnel details about the products they purchased. The different features of the dataset are,
+
+User_ID 				--> Unique value for each user
+Product_ID 			--> Unique value for each product
+Gender 				--> M/F gender of the user
+Age 				--> Age in range
+Occupation			--> Occupation of the user in years
+City_Category			--> There are different classes of city category. Gives info about 	
+				    which city category each user belongs to 
+Stay_In_Current_City_Years	--> How long the user stays in current city in years
+Marial_Status			--> User marital status
+Product_Category_1		--> Different categories of the products purchased by the user
+Product_Category_2
+Product_Category_3
+Purchase				--> Total purchase on each product 
+
+Just by looking the dataset information about the features can be understood. For further information you can visit Analytics Vidhya on Black Friday competition from where I got this dataset.
